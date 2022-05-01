@@ -81,7 +81,7 @@
     "@glimmer/global-context": "0.80.0",
     "@glimmer/interfaces": "0.80.0",
     "@glimmer/manager": "0.80.0",
-    "@glimmer/node": "0.80.0",
+    "@glimmer/node": "0.84.2",
     "@glimmer/opcode-compiler": "0.80.0",
     "@glimmer/owner": "0.80.0",
     "@glimmer/program": "0.80.0",
